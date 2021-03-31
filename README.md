@@ -1,6 +1,6 @@
 # PesquisaEndereço
 
-Esse Projeto é estruturado em JavaScript ultilizando-se de XML estraido do site https://viacep.com.br
+Esse Projeto é estruturado em JavaScript ultilizando-se de XML extraído do site https://viacep.com.br
 
 ## Começando
 
