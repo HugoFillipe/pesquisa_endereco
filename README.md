@@ -2,7 +2,7 @@
 
 Esse Projeto é estruturado em JavaScript ultilizando-se de XML estraido do site https://viacep.com.br
 
-## começando
+## Começando
 
 Para executar o projeto, será necessário instalar os seguintes programas:
 
